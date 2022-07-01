@@ -1,8 +1,6 @@
 {
-  "SurumBilgileri" :{
-    "sum" : " 2.0 "
+  "Bilgiler":{
+    "sum" : " 2.0 ",
+	"merhaba" : "https://cdn-icons-png.flaticon.com/512/1177/1177568.png"
   }
-  "Images":{
-   "user" : "https://cdn-icons-png.flaticon.com/512/1177/1177568.png"
-   }
 }
