@@ -1,6 +1,13 @@
 {
-  "Launcher Information":{
+  "Launcher Information":
+  {
     "verison" : " 2.0 ",
-    "user_icon" : "https://cdn-icons-png.flaticon.com/512/1177/1177568.png"
+  }
+   "Pictures":
+  {
+    "Icons":
+    [
+      "https://cdn-icons-png.flaticon.com/512/1177/1177568.png"
+    ]
   }
 }
