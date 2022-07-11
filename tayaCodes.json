@@ -6,10 +6,13 @@
   
    "Pictures":
   {
-    "Taya_Bank": "https://cdn-icons-png.flaticon.com/512/3522/3522609.png",
+    "Apps":
+    [
+      "https://cdn-icons-png.flaticon.com/512/3522/3522609.png"
+    ],
     "Icons":
     [
-      "deneme":"https://cdn-icons-png.flaticon.com/512/1177/1177568.png"
+      "https://cdn-icons-png.flaticon.com/512/1177/1177568.png"
     ]
   }
 }
