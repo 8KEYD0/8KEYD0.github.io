@@ -1,7 +1,19 @@
 {
   "Launcher Information":
   {
-    "version" : "2.0.0"
+    "version" : "2.0.0",
+    "Launcher Apps" :
+    [
+      "Redearth"
+    ],
+    "Launcher Download Links" :
+    [
+      "Redearth ¨ https://app.box.com/index.php?rm=box_download_shared_file&shared_name=simhidzymhujlrhjqhu77a6xpra4pagg&file_id=f_976014004343"
+    ],
+    "extensions" :
+    [
+      "Redearth - .exe"
+    ]
   },
   
    "Pictures":
