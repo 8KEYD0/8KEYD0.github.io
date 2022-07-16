@@ -5,18 +5,22 @@
     "update notes": "",
     "Launcher Apps" :
     [
-      "Redearth"
+      "Redearth",
+      "Taya Bank"
     ],
     "Launcher Download Links" :
     [
-      "Redearth ¨ https://app.box.com/index.php?rm=box_download_shared_file&shared_name=hkza8l301k4h73cupuz5lksqp2mybcs3&file_id=f_983675314720"
+      "Redearth ¨ https://app.box.com/index.php?rm=box_download_shared_file&shared_name=hkza8l301k4h73cupuz5lksqp2mybcs3&file_id=f_983675314720",
+      "Taya Bank ¨ https://app.box.com/index.php?rm=box_download_shared_file&shared_name=hkza8l301k4h73cupuz5lksqp2mybcs3&file_id=f_983675314720"
     ],
     "extensions" :
     [
-      "Redearth - .exe"
+      "Redearth - .exe",
+      "Taya Bank - .exe"
     ],
     "fees" :
     [
+      "Ücretsiz",
       "Ücretsiz"
     ]
   },
@@ -25,7 +29,8 @@
   {
     "Apps":
     [
-      "https://st2.depositphotos.com/3867453/9096/v/950/depositphotos_90960578-stock-illustration-letter-r-logo-icon-design.jpg"
+      "https://st2.depositphotos.com/3867453/9096/v/950/depositphotos_90960578-stock-illustration-letter-r-logo-icon-design.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c2/Portrait_of_Abdul_Hamid_II_of_the_Ottoman_Empire.jpg"
     ],
     "Icons":
     [
